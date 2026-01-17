@@ -1,0 +1,9 @@
+Python 3.10+
+PyQt6
+PyQt6-WebEngine
+scikit-learn
+pandas
+numpy
+shap
+plotly
+joblib
